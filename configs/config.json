@@ -1,0 +1,6 @@
+{
+    "filename":"data/datalist.json",
+    "basiclogin":"admin",
+    "basicpassword":"admin",
+    "cartname":"data/cart.json"
+}
